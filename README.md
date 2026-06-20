@@ -1,4 +1,3 @@
-<img width="4200" height="1800" alt="volatility_vs_smoothing_amzn" src="https://github.com/user-attachments/assets/9a152bbb-82a3-41f3-8d87-9fd17fcdc8d9" />
 ---
 
 ## Stock Forecasting & Portfolio Management Using MLPs
@@ -52,16 +51,20 @@ This project analyzes historical data of 5 major Wall Street equities, filters o
 
 ## Visualizations
    - Volatility vs. Smoothing (Amazon)
-   ![Volatility vs. Smoothing](images/volatility_vs_smoothing_amzn.png)
+   ![Volatility vs. Smoothing](<img width="4200" height="1800" alt="volatility_vs_smoothing_amzn" src="https://github.com/user-attachments/assets/1b9a1f5b-41e9-4a0d-929f-b08f49125d05" />
+)
 
    - Pearson Correlation Matrix
-   ![Pearson Correlation Matrix](images/correlation_matrix.png)
+   ![Pearson Correlation Matrix](<img width="3000" height="2400" alt="correlation_matrix" src="https://github.com/user-attachments/assets/3b17a4ee-2f6f-4680-be25-7215507f5009" />
+)
 
    - Validation Performance (AAPL)
-   ![Validation Performance](images/validation_performance.png)
+   ![Validation Performance](<img width="3000" height="1500" alt="validation_performance" src="https://github.com/user-attachments/assets/bdfbfe55-ed10-4749-93ad-68d7bdf6a179" />
+)
    
    - Expected Structural Growth Rate
-   ![Expected Structural Growth Rate](images/expected_growth_rates.png)
+   ![Expected Structural Growth Rate](<img width="2700" height="1500" alt="expected_growth_rates" src="https://github.com/user-attachments/assets/42cd9ad9-2789-468b-9890-70fc42681204" />
+)
 
 
 ---
