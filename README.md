@@ -70,6 +70,6 @@ This project analyzes historical data of 5 major Wall Street equities, filters o
 ---
 
 **Notes**
-This is for portfolio purposes, made with real data, during a Machine Learning course I took from the University of Crete.
-This project is showcasing practical ML applications in quantitative asset management.
-The notebook is interactive when opened in Colab.
+- This is for portfolio purposes, made with real data, during a Machine Learning course I took from the University of Crete.
+- This project is showcasing practical ML applications in quantitative asset management.
+- The notebook is interactive when opened in Colab.
