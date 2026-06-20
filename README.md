@@ -1,3 +1,4 @@
+<img width="4200" height="1800" alt="volatility_vs_smoothing_amzn" src="https://github.com/user-attachments/assets/9a152bbb-82a3-41f3-8d87-9fd17fcdc8d9" />
 ---
 
 ## Stock Forecasting & Portfolio Management Using MLPs
@@ -62,8 +63,6 @@ This project analyzes historical data of 5 major Wall Street equities, filters o
    - Expected Structural Growth Rate
    ![Expected Structural Growth Rate](images/expected_growth_rates.png)
 
-   - Real-World Validation (Goldman Sachs)
-   ![Real-World Validation](images/goldman_sachs_real.png)
 
 ---
 
